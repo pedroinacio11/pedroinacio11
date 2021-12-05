@@ -20,6 +20,7 @@
   <img align="center" alt="PH-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="PH-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="right" alt="PH-pic" height="150" style="border-radius:50px;" src="https://pedrohenrique-1991.s3.sa-east-1.amazonaws.com/pedro-fundo-roxo.png">
+  <br>
 </div>
   
   ##
